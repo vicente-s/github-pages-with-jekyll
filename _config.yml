@@ -2,8 +2,7 @@ title: My Blogs
 author: vicente-s
 email: vicenteajr.soriano@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Vicente's blogs. Here you'll find content about my experiences as a full stack developer and as a
-  skateboarder too!
+  Here you'll find content about my experiences as a developer and as a skateboarder.
 # social links
 github_username:  vicente-s # DO NOT include the @ character, or else the build will fail!
 
