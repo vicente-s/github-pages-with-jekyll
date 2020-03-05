@@ -1,9 +1,7 @@
 ---
-title: "Vicente - I still skate"
+title: "..I still skate"
 date: 2020-03-05
 ---
-
-# ..I still skate.
 
 So yea, I skate, and I also code. Skateboarding has always been my passion and unexpectedly,
 it's led to become a decent developer too. I figured my first challenge as a developer should be something
